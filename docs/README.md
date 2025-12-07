@@ -8,20 +8,24 @@ OctoAcme runs projects using a customer-first, iterative approach that emphasize
 
 The project lifecycle follows five key phases: **Initiation** validates goals and stakeholders, creating a lightweight plan; **Planning** breaks work into shippable increments with clear acceptance criteria; **Execution** involves daily standups, demos, and continuous quality checks; **Release** standardizes deployment with rollback plans and verifications; and **Retrospective** captures learnings and converts them into actionable improvements. Throughout this lifecycle, we maintain regular communication cadences including daily standups, weekly syncs, and milestone-based stakeholder updates.
 
-Core roles include Project Managers (PMs) who coordinate delivery and manage risks, Product Managers (PdMs) who define outcomes and prioritize the backlog, Developers who implement features and collaborate on design, QA/Testing teams who validate quality, and Stakeholders who provide inputs and approvals. Each role works collaboratively to ensure projects deliver on commitments while maintaining high quality standards.
+Core roles include Project Sponsors who provide strategic direction and resources, Project Managers (PMs) who coordinate delivery and manage risks, Product Managers (PdMs) who define outcomes and prioritize the backlog, Business Analysts who bridge stakeholder needs with project goals, Developers who implement features and collaborate on design, QA Leads who oversee testing strategy and quality gates, Communications Specialists who manage stakeholder messaging and updates, Risk Managers who focus on risk identification and mitigation, and Stakeholders who provide inputs and approvals. Each role works collaboratively to ensure projects deliver on commitments while maintaining high quality standards.
 
 Quality assurance is embedded throughout our process with unit tests for new logic, integration and end-to-end testing for critical flows, security scanning in CI, and defined acceptance criteria for every deliverable. We track progress through velocity metrics, burndown charts, and success metrics identified during project initiation, ensuring we remain data-informed at every step.
 
 ## Documentation Index
 
 - [**Project Management Overview**](octoacme-project-management-overview.md) — Principles, core roles, key artifacts, and lifecycle overview
-- [**Roles and Personas**](octoacme-roles-and-personas.md) — Detailed role definitions for Developers, Product Managers, and Project Managers
+- [**Roles and Personas**](octoacme-roles-and-personas.md) — Detailed role definitions for all project roles including Project Sponsors, Business Analysts, Developers, Product Managers, Project Managers, QA Leads, Communications Specialists, and Risk Managers
 - [**Project Initiation Guide**](octoacme-project-initiation.md) — Initial steps to validate work, align stakeholders, and create lightweight plans
 - [**Project Planning**](octoacme-project-planning.md) — Turn approved initiatives into actionable plans and prioritized backlogs
 - [**Execution & Tracking**](octoacme-execution-and-tracking.md) — Day-to-day execution guidance, team rhythms, workflows, and quality practices
 - [**Risk Management & Communication**](octoacme-risks-and-communication.md) — Risk identification, assessment, mitigation, and stakeholder communication strategies
 - [**Release & Deployment Guide**](octoacme-release-and-deployment.md) — Standardized release processes, deployment checklists, and rollback procedures
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) — Capture learnings and convert them into actionable improvements
+
+### Templates and Checklists
+- [**Role Onboarding Checklist**](octoacme-role-onboarding-checklist.md) — Onboarding guidance for all project roles
+- [**Communication Plan Template**](octoacme-communication-plan-template.md) — Comprehensive template for project communications management
 
 ## About This Repository
 
