@@ -14,9 +14,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (coordinate with Communications Specialist)
 - High-level timeline and key milestones
-- Initial risk list
+- Initial risk list (coordinate with Risk Manager)
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
@@ -32,6 +32,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Business Analyst assigned for requirements gathering (if applicable)
+- [ ] Risk Manager engaged for initial risk assessment (if applicable)
+- [ ] Communications Specialist briefed on stakeholder communication needs (if applicable)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
